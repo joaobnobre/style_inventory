@@ -1,0 +1,4 @@
+{
+    "usage":{"corda":3,"cordareforcada":10,"algemas":3,"chavedealgemas":3,"capuz":3,"tesoura":3,"pano":10},
+    "durability":{"bolsaderoupas":3600, "bolsaderoupasfashion":86400}
+}
